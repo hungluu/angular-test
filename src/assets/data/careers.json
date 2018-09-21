@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "title": "Fullstack Developer"
+    },
+    {
+      "title": "Website Developer"
+    },
+    {
+      "title": "UI Designer"
+    }
+  ],
+  "error": {
+    "errors": [],
+    "message": "",
+    "code": 200
+  }
+}

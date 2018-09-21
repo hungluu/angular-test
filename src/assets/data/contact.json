@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "key": "phone",
+      "value": "+84906552656"
+    },
+    {
+      "key": "github",
+      "value": "https://github.com/hungluu"
+    },
+    {
+      "key": "npm",
+      "value": "https://npmjs.com/~hungluu"
+    }
+  ],
+  "error": {
+    "errors": [],
+    "message": "",
+    "code": 200
+  }
+}

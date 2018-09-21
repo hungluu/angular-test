@@ -1,2 +1,2 @@
-export * from './models/contact.model';
-export * from './services/contact.service';
+// export * from './models/contact.model';
+export * from './services/about.service';
